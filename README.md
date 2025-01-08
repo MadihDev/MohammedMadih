@@ -47,8 +47,7 @@ An optimized platform specializing in IT equipment sales in Morocco.
 
 ---
 
-## 📫 Let's Connect
-- 🌐 [Website](https://www.elitepcmaroc.com)  
+## 📫 Let's Connect  
 - 📧 Email: [mohammed.madih09@gmail.com](mailto:mohammed.madih09@gmail.com)  
 - 💬 WhatsApp: [+212 606475149](https://wa.me/212606475149)  
 
